@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: space-between;
   background-color: #fafafa;
-  width: 90%;
+  width: 80%;
   box-shadow: 8px 8px #dedede;
 }
 
@@ -44,8 +44,8 @@ p {
   border-bottom-left-radius: 300px;
   border-bottom-right-radius: 400px;
   background-color: #ac3dfe;
-  margin-left: 20%;
-  width: 60%;
+  /* margin-left: 20%; */
+  width: 70%;
   height: 80vh;
   transform: translateX(-30px);
 }
@@ -55,7 +55,7 @@ p {
   /* height: 400px; */
   background: none;
   transform: translateY(-900px);
-  /* margin-left: 50px; */
+
   margin-top: 20px;
 }
 
