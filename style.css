@@ -134,11 +134,11 @@ p {
 
   .image {
     width: 900px;
-    /* height: 400px; */
 
-    transform: translateY(-900px);
+    /* transform: translateY(500px); */
     transform: translateX(-200px);
     position: absolute;
+    margin-top: 5px;
   }
 
   .divTwo {
